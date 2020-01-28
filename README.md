@@ -6,6 +6,6 @@ It is meant as an demo to show the difference of a pure Legato imoplementation -
 There is clear advantage in required code ammount:
 - Code required in pure Linux Implementation: **2500LOC** (logical lines of code - no coment whitespaces etc counted)
 - Code required in Legato: **1200LOC**
-- Code required in Octave: **406LOC** of C code and **98LOC** in JavaScript
+- Code required in Octave: **406LOC** of C code and **98LOC** in JavaScript - the C code to feed data to Octave you find in this repository
 
 To reach the same functionality.
